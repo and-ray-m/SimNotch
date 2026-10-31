@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/and-ray-m/SimNotch/releases/latest"><img src="https://img.shields.io/github/v/release/and-ray-m/SimNotch?label=версия&color=ff4d8d" alt="Версия"></a>
+  <a href="https://github.com/and-ray-m/SimNotch/releases/latest"><img src="https://img.shields.io/github/v/release/and-ray-m/SimNotch?color=ff4d8d&label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F" alt="Версия"></a>
   <img src="https://img.shields.io/badge/macOS-27.2%2B-blue?logo=apple" alt="macOS 27.2+">
   <img src="https://img.shields.io/badge/Apple%20Silicon-поддерживается-success" alt="Apple Silicon">
 </p>
